@@ -1,0 +1,28 @@
+{
+  "name": "precioso",
+  "version": "1.0.0",
+  "description": "Alerta de preços",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netowp/precioso.git"
+  },
+  "keywords": [
+    "price",
+    "checker"
+  ],
+  "author": "Neto Lima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/netowp/precioso/issues"
+  },
+  "homepage": "https://github.com/netowp/precioso#readme",
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "cheerio": "^0.22.0",
+    "request": "^2.78.0"
+  }
+}
